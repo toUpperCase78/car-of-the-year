@@ -2,6 +2,8 @@
 
 **Datasets &amp; Analyses of Car of the Year Awards**
 
+![Car of the Year 2025](CarOfTheYear_2025_logo.png)
+
 ## About
 
 The **Car of the Year** is internationally recognized organization that annually awards the prestigious trophy for the car manufacturers that produced the most exceptional new car released in the European market.
