@@ -19,10 +19,8 @@ The datasets and the data inside were all collected from the Official Car of the
 Here, two different types of datasets can be found:
 
 * **The first type** (`CarOfTheYear_Winners_Nominees.csv`) encompasses all winners and nominees with their total points, starting from 1964, up to the present. Inside, the order of the columns first show the year individually, then the winner car with its accumulated point (separated into two distinct columns), then the second-placed one with its total point, and so on.
-* **The second type** (`CarOfTheYearXXXX_VotingGrid.csv`) contains voting grids for all nominated cars, between 1995 and 2025 (total of 31 datasets are available). In these datasets, each row begins with the country and name of the jury, then his/her point distribution to all nominated cars. It can be recognized accordingly that the leftmost column represents the points given by each participated jury to the award-winning car, then the points to the second-placed car, up until the points distributed for the last-placed one. Thus, the columns of all nominated cars have been set to reflect this ranking order.
+* **The second type** (`CarOfTheYearXXXX_VotingGrid.csv`) contains voting grids for all nominated cars, between 1995 and 2026 (total of 32 datasets are available). In these datasets, each row begins with the country and name of the jury, then his/her point distribution to all nominated cars. It can be recognized accordingly that the leftmost column represents the points given by each participated jury to the award-winning car, then the points to the second-placed car, up until the points distributed for the last-placed one. Thus, the columns of all nominated cars have been set to reflect this ranking order.
 
 ## Analyses
 
-There is only one data analysis I had carried out in 2020, evaluated between the years 2010 and 2020: `CarOfTheYear_Winners_Nominees_2020.ipynb`
-
-As the 2026 winner was announced, there will be another analysis in much broader area to inspect everything between 1995 and 2026. Stay tuned!
+There is a notebook (`CarOfTheYear_Winners_Finalists_2026.ipynb`) which covers the related analyses that I put my hard work on it, spanning across all years in the organization's history. Be sure to check it out to gain many insights!
