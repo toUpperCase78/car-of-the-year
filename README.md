@@ -2,7 +2,7 @@
 
 **Datasets &amp; Analyses of Car of the Year Awards**
 
-![Car of the Year 2025](CarOfTheYear_2025_logo.png)
+![Car of the Year 2026](CarOfTheYear_2026_logo.png)
 
 ## About
 
@@ -25,4 +25,4 @@ Here, two different types of datasets can be found:
 
 There is only one data analysis I had carried out in 2020, evaluated between the years 2010 and 2020: `CarOfTheYear_Winners_Nominees_2020.ipynb`
 
-Once the 2026 winner has been announced, there will be another analysis in much broader area to inspect everything between 1995 and 2026. Stay tuned!
+As the 2026 winner was announced, there will be another analysis in much broader area to inspect everything between 1995 and 2026. Stay tuned!
